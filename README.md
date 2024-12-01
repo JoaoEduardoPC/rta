@@ -37,7 +37,11 @@ Visualizar Tarefas
 
 As tarefas adicionadas são exibidas na tela inicial.
 ## Tecnologias Utilizadas
+
 Kotlin: Linguagem principal de desenvolvimento.
+
 SQLite: Persistência local de dados.
+
 Android Studio: Ambiente de desenvolvimento.
+
 Material Design: UI responsiva e moderna.
