@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string-array name="categories_array">
+        <item>Trabalho</item>
+        <item>Pessoal</item>
+        <item>Shopping</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+
+    <string-array name="priorities_array">
+        <item>Alta</item>
+        <item>Média</item>
+        <item>Baixo</item>
+    </string-array>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
